@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "c7a67c7de8395b25",
+    "type": "split",
+    "children": [
+      {
+        "id": "03258e8cfade8595",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Data Structure.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33c2108dcd23fc56",
+    "type": "split",
+    "children": [
+      {
+        "id": "15bcf372b56f477c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e7f6abe6d759178",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a41ff1cf6419e57d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fd17c216d152cb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a956224263c153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32af20e47a352f68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structure.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Data Structure.md",
+    "Algorithm.md",
+    "Untitled.md",
+    "Problem Solving using Algorithm/Chap 1 - Exercise.md",
+    "Problem Solving using Algorithm/Python Fucntion and Summary.md",
+    "Problem Solving using Algorithm/Reference.md",
+    "Problem Solving using Algorithm/Chapter 1/Exercise.md",
+    "Problem Solving using Algorithm/Untitled.md",
+    "Problem Solving using Algorithm/Chapter 1/Untitled.md",
+    "剑指offer/docs/01_抽象数据类型和面向对象编程/ADT_OOP.md"
+  ]
+}
